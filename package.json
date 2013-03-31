@@ -1,0 +1,14 @@
+{ 
+  "name": "depsio",
+  "description": "Deps.io agent",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/letsdoapps/node-depsio.git" },
+  "dependencies": {
+  },
+  "main": "./lib/depsio",
+  "private": true,
+  "homepage": "http://github.com/letsdoapps/node-depsio",
+  "license": "MIT"
+}
