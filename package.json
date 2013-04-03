@@ -2,12 +2,22 @@
   "name": "depsio",
   "description": "Deps.io agent",
   "version": "0.0.1",
+  "author": "Lets do Apps <contact@letsdoapps.com>",
+  "contributors": [
+    {
+      "name": "Alexandre Gerlic"  
+    },
+    {
+      "name": "Jeremie Bordier"
+    }
+  ],
   "repository": {
     "type": "git",
     "url":  "https://github.com/letsdoapps/node-depsio.git" },
   "dependencies": {
   },
   "main": "./lib/depsio",
+  "keywords": ["deps.io", "depsio", "dependencies"],
   "private": true,
   "homepage": "http://github.com/letsdoapps/node-depsio",
   "license": "MIT"
